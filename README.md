@@ -1,6 +1,7 @@
 ## Hi, I'm Hila 👋
 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech
+
 👩🏻‍🎓 Studied Computer Science at at Bar-Ilan University.
 
 ## Connect with me:
